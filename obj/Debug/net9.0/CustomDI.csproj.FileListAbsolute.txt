@@ -1,0 +1,14 @@
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\CustomDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\CustomDI.AssemblyInfoInputs.cache
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\CustomDI.AssemblyInfo.cs
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\CustomDI.csproj.CoreCompileInputs.cache
+C:\Users\BS01089\Documents\PROJECTS\DI\bin\Debug\net9.0\CustomDI.exe
+C:\Users\BS01089\Documents\PROJECTS\DI\bin\Debug\net9.0\CustomDI.deps.json
+C:\Users\BS01089\Documents\PROJECTS\DI\bin\Debug\net9.0\CustomDI.runtimeconfig.json
+C:\Users\BS01089\Documents\PROJECTS\DI\bin\Debug\net9.0\CustomDI.dll
+C:\Users\BS01089\Documents\PROJECTS\DI\bin\Debug\net9.0\CustomDI.pdb
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\CustomDI.dll
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\refint\CustomDI.dll
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\CustomDI.pdb
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\CustomDI.genruntimeconfig.cache
+C:\Users\BS01089\Documents\PROJECTS\DI\obj\Debug\net9.0\ref\CustomDI.dll
